@@ -1,4 +1,3 @@
-import json
 from typing import Union
 from .alpaca_client import AlpacaClient
 from schemas.account import Account, AccountBase, AccountCreate, AccountActivity, AccountNonTradeActivity

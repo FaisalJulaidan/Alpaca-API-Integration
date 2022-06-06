@@ -1,4 +1,3 @@
-from typing import Union
 from fastapi import APIRouter
 from crud import assets
 from schemas.asset import Asset, AssetClass

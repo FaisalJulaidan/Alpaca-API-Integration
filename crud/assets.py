@@ -1,4 +1,3 @@
-import json
 from .alpaca_client import AlpacaClient
 from schemas.asset import Asset, AssetStatus, AssetClass
 from schemas.http import HttpResponse
